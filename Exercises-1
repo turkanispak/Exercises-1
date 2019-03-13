@@ -1,0 +1,75 @@
+#include <stdio.h>
+#include <conio.h>
+
+/*CENG111 Labwork 4*/
+int main(void)
+{
+	//Question 1
+
+	//1-a Print the statements with 3 printf();
+
+	/*
+	printf("Name : Turkan Simge Ispak \n");
+	printf("Department : Electrical Electronics Engineering \n");
+	printf("Student ID : 201726038 \n");
+	*/
+
+
+	//1-b Print the statements with 1 printf();
+
+	//printf("Name : Turkan Simge Ispak \nDepartment : Computer Engineering \nStudent ID : 201726038\n");
+
+
+	//Question 2
+
+	//printf("******\n");
+	//printf("*    *\n");
+	//printf("*    *\n");
+	//printf("*    *\n");
+	//printf("*    *\n");
+	//printf("******\n");
+
+	//Question 3
+
+	//printf("       *     \n");
+	//printf("     *   *   \n");
+	//printf("   *   *   * \n");
+	//printf("     *   *   \n");
+	//printf("       *     \n");
+
+	//Question 4
+
+	/*
+	char char1,char2;
+	int integer;
+	double real;
+	printf("Please input 2 characters \n");
+	scanf("%c %c",&char1,&char2);
+	printf("Please enter an integer value \n");
+	scanf("%d",&integer);
+	printf("Please enter a real value \n");
+	scanf("%lf",&real);
+	printf("\nInputs are as follows: \nCharacter 1: %c \nCharacter 2: %c \nInteger : %d \nReal Number: %lf \n",char1,char2,integer,real);
+    */
+
+
+	//Question 5
+
+	/*
+	int num1,num2,num3;
+	double real;
+
+	printf("Please enter 3 integers \n");
+	scanf("%d",&num1);
+	scanf("%d",&num2);
+	scanf("%d",&num3);
+	printf("Please enter a real number \n");
+	scanf("%lf",&real);
+
+	printf("The numbers that have been entered are as follows \n");
+	printf(" Integer 1: %d\n Integer2: %d\n Integer3: %d\n Real Number: %lf\n",num1,num2,num3,real);
+	*/
+
+	return 0;
+
+}
